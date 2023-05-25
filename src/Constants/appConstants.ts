@@ -1,0 +1,1 @@
+export const jwtToken = 'nxtwatch_app_jwt_token'
