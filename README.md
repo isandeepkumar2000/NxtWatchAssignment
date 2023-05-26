@@ -1,3 +1,24 @@
+
+![Screenshot from 2023-05-26 11-27-42](https://github.com/isandeepkumar2000/NxtWatchAssignment/assets/121090539/92f02ef1-1b6d-45ff-8f89-5c0b37094b79)
+
+![Screenshot from 2023-05-26 11-34-02](https://github.com/isandeepkumar2000/NxtWatchAssignment/assets/121090539/8f505ea6-ad25-4822-bb4f-9d5ecf2f5658)
+
+![Screenshot from 2023-05-26 11-31-08](https://github.com/isandeepkumar2000/NxtWatchAssignment/assets/121090539/11218880-9a58-4939-8ec0-0198e5aa4175)
+
+![Screenshot from 2023-05-26 11-31-18](https://github.com/isandeepkumar2000/NxtWatchAssignment/assets/121090539/8a25cf8f-a97a-4a07-a9f2-68f9278c21e2)
+
+
+![Screenshot from 2023-05-26 11-31-28](https://github.com/isandeepkumar2000/NxtWatchAssignment/assets/121090539/6e82b100-744e-4a00-9d9b-c1e55e60c70a)
+
+![Screenshot from 2023-05-26 11-31-41](https://github.com/isandeepkumar2000/NxtWatchAssignment/assets/121090539/aae379ed-8c7a-4851-92a2-652e1d8e8e63)
+![Screenshot from 2023-05-26 11-32-00](https://github.com/isandeepkumar2000/NxtWatchAssignment/assets/121090539/a6264882-4db1-4a1c-91f2-4186620d406d)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
